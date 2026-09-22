@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.willwinder.ugs.platform.plugin.designer">
+    <module_version install_time="1786445915335" last="true" origin="installer" specification_version="2.0.0.2026.08.11.10.57">
+        <file crc="400552558" name="config/Modules/com-willwinder-ugs-platform-plugin-designer.xml"/>
+        <file crc="2656203539" name="modules/com-willwinder-ugs-platform-plugin-designer.jar"/>
+        <file crc="221395989" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/com-github-weisj/jsvg.jar"/>
+        <file crc="3542709268" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/com-google-code-gson/gson.jar"/>
+        <file crc="1801698611" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/com-google-errorprone/error_prone_annotations.jar"/>
+        <file crc="1655359009" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/com-microsoft-onnxruntime/onnxruntime.jar"/>
+        <file crc="928303052" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/com-willwinder-universalgcodesender/ugs-designer.jar"/>
+        <file crc="2356733672" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/commons-io/commons-io.jar"/>
+        <file crc="4002269959" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/commons-logging/commons-logging.jar"/>
+        <file crc="167814075" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-commons/commons-lang3.jar"/>
+        <file crc="2742364778" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-anim.jar"/>
+        <file crc="4159565053" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-awt-util.jar"/>
+        <file crc="2508450406" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-bridge.jar"/>
+        <file crc="4058815306" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-constants.jar"/>
+        <file crc="1049606057" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-css.jar"/>
+        <file crc="2660997073" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-dom.jar"/>
+        <file crc="2056878591" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-ext.jar"/>
+        <file crc="2831031020" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-gui-util.jar"/>
+        <file crc="4264434251" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-gvt.jar"/>
+        <file crc="2957804625" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-i18n.jar"/>
+        <file crc="3220991725" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-parser.jar"/>
+        <file crc="3244794206" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-script.jar"/>
+        <file crc="1082166373" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-shared-resources.jar"/>
+        <file crc="1101337341" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-svg-dom.jar"/>
+        <file crc="1132972505" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-swing.jar"/>
+        <file crc="1345449169" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-util.jar"/>
+        <file crc="4198426965" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/batik-xml.jar"/>
+        <file crc="2663821284" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-apache-xmlgraphics/xmlgraphics-commons.jar"/>
+        <file crc="1163463870" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/org-locationtech-jts/jts-core.jar"/>
+        <file crc="2268634152" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/xml-apis/xml-apis-ext.jar"/>
+        <file crc="3203011316" name="modules/ext/com.willwinder.ugs-platform-plugin-designer/xml-apis/xml-apis.jar"/>
+    </module_version>
+</module>

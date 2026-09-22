@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.willwinder.Surfacer">
+    <module_version install_time="1786445915506" last="true" origin="installer" specification_version="2.1.26">
+        <file crc="2861918959" name="config/Modules/com-willwinder-Surfacer.xml"/>
+        <file crc="2928252096" name="modules/com-willwinder-Surfacer.jar"/>
+    </module_version>
+</module>

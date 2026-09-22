@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.willwinder.ugs.platform.visualizer">
+    <module_version install_time="1786445913748" last="true" origin="installer" specification_version="2.0.0.2026.08.11.10.57">
+        <file crc="2497449639" name="config/Modules/com-willwinder-ugs-platform-visualizer.xml"/>
+        <file crc="152085399" name="modules/com-willwinder-ugs-platform-visualizer.jar"/>
+        <file crc="914671301" name="modules/ext/com.willwinder.ugs-platform-visualizer/antlr/antlr.jar"/>
+        <file crc="1575793434" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-gluegen/gluegen-rt-main.jar"/>
+        <file crc="845631431" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-gluegen/gluegen-rt-natives-android-aarch64.jar"/>
+        <file crc="2256215443" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-gluegen/gluegen-rt-natives-android-x86_64.jar"/>
+        <file crc="1150972740" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-gluegen/gluegen-rt-natives-freebsd-amd64.jar"/>
+        <file crc="2932891566" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-gluegen/gluegen-rt-natives-linux-aarch64.jar"/>
+        <file crc="3945783852" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-gluegen/gluegen-rt-natives-linux-amd64.jar"/>
+        <file crc="1102604387" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-gluegen/gluegen-rt-natives-linux-armv6hf.jar"/>
+        <file crc="253237859" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-gluegen/gluegen-rt-natives-macosx-universal.jar"/>
+        <file crc="3060420117" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-gluegen/gluegen-rt-natives-windows-amd64.jar"/>
+        <file crc="3257457450" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-gluegen/gluegen-rt.jar"/>
+        <file crc="1575793434" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-jogl/jogl-all-main.jar"/>
+        <file crc="616853406" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-jogl/jogl-all-natives-android-aarch64.jar"/>
+        <file crc="934565438" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-jogl/jogl-all-natives-android-x86_64.jar"/>
+        <file crc="383256054" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-jogl/jogl-all-natives-freebsd-amd64.jar"/>
+        <file crc="3981868979" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-jogl/jogl-all-natives-linux-aarch64.jar"/>
+        <file crc="2626939579" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-jogl/jogl-all-natives-linux-amd64.jar"/>
+        <file crc="1578639746" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-jogl/jogl-all-natives-linux-armv6hf.jar"/>
+        <file crc="2581221556" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-jogl/jogl-all-natives-macosx-universal.jar"/>
+        <file crc="502915006" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-jogl/jogl-all-natives-windows-amd64.jar"/>
+        <file crc="1623884624" name="modules/ext/com.willwinder.ugs-platform-visualizer/org-jogamp-jogl/jogl-all.jar"/>
+    </module_version>
+</module>
